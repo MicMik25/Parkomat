@@ -1,0 +1,26 @@
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.exe.config
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.exe
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.pdb
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.AssemblyReference.cache
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form1.resources
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Rodzaj_Platnosci.resources
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Properties.Resources.resources
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.GenerateResource.cache
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.CoreCompileInputs.cache
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.exe
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.pdb
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Platnosc_Gotowka.resources
+C:\Users\UL0262178\Desktop\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Platnosc_Karta.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.exe.config
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.exe
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\bin\Debug\Parkometr.pdb
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.AssemblyReference.cache
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form1.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Platnosc_Gotowka.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Platnosc_Karta.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Form_Rodzaj_Platnosci.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.Properties.Resources.resources
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.GenerateResource.cache
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.csproj.CoreCompileInputs.cache
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.exe
+C:\Users\UL0262178\Desktop\II ROK STUDIÓW\Parkometr\Parkometr\Parkometr\obj\Debug\Parkometr.pdb
